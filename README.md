@@ -10,5 +10,7 @@ Overall, RBUCS effectively streamlines the process of reviewing and analyzing UG
 
 ## Poster
 [Coding Fest 2025_RBUCS.pdf](https://github.com/user-attachments/files/22231366/Coding.Fest.2025_RBUCS.pdf)
+<img width="720" height="1018" alt="Coding Fest 2025_RBUCS" src="https://github.com/user-attachments/assets/d553bfc9-6906-4e0d-be54-9ebbf31ef99f" />
 
-
+## Demo
+Coming soon...
