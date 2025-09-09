@@ -9,6 +9,6 @@ To evaluate the retrieval effectiveness of our RAG module, we labeled 150 query-
 Overall, RBUCS effectively streamlines the process of reviewing and analyzing UGC, offering concise and targeted summaries to mitigate information overload on modern UGC platforms.
 
 ## Poster
-[Coding Fest 2025_RBUCS.pdf](https://github.com/user-attachments/files/21277949/Coding.Fest.2025_RBUCS.pdf)
-<img width="2880" height="4072" alt="Slide Final" src="https://github.com/user-attachments/assets/d30dcb86-7d0c-479a-a643-5c9c9aedf048" />
+[Coding Fest 2025_RBUCS.pdf](https://github.com/user-attachments/files/22231366/Coding.Fest.2025_RBUCS.pdf)
+
 
